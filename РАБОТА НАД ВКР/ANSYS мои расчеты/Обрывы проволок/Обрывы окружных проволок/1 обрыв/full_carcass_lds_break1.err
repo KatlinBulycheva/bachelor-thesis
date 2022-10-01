@@ -1,0 +1,37 @@
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       12:16:59
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       13:36:28
+
+ *** ERROR ***                           CP =       9.906   TIME= 13:38:04
+ This function requires defined areas.                                   
+  No areas are currently defined.                                        
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       13:40:47
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       19:18:46
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       00:45:07
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       22:50:05
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       22:28:24
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       11:43:29
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       19:05:19
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       02:05:04
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       13:26:54
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       02:00:08
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       01:32:35
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       14:24:35
+
+ *** WARNING ***                         CP =      47.469   TIME= 15:00:50
+ The PLNSOL command cannot be executed.  The selected elements cannot be 
+ displayed by PowerGraphics.  To correct this situation, select          
+ different elements or turn off PowerGraphics.                           
+
+ *** WARNING ***                         CP =      48.266   TIME= 15:01:21
+ The PLNSOL command cannot be executed.  The selected elements cannot be 
+ displayed by PowerGraphics.  To correct this situation, select          
+ different elements or turn off PowerGraphics.                           
+
+ *** ERROR ***                           CP =     115.469   TIME= 15:15:35
+ Input Data for the Circular Solid Section type must be positive.        
+ Please check the input.                                                 
+
+ *** WARNING ***                         CP =     117.906   TIME= 15:19:30
+ The current solution may have been produced using different model or    
+ boundary condition data than is currently stored.  POST1 results may    
+ be erroneous unless you perform a new solution using the stored data.   

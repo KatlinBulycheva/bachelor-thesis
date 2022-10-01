@@ -1,0 +1,21 @@
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       12:23:43
+
+ *** WARNING ***                         CP =       5.578   TIME= 12:25:01
+ PLLS is not a recognized PREP7 command, abbreviation, or macro.         
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       5.891   TIME= 12:25:21
+ PLLS is not a recognized PREP7 command, abbreviation, or macro.         
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      30.219   TIME= 14:07:38
+ The current solution may have been produced using different model or    
+ boundary condition data than is currently stored.  POST1 results may    
+ be erroneous unless you perform a new solution using the stored data.   
+
+ *** WARNING ***                         CP =      35.250   TIME= 14:10:07
+ The current solution may have been produced using different model or    
+ boundary condition data than is currently stored.  POST1 results may    
+ be erroneous unless you perform a new solution using the stored data.   
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       15:41:28
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       19:29:41
